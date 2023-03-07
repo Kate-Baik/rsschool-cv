@@ -47,3 +47,5 @@ Ukrainian – native, Russian – native, Polish - intermediate, English – int
 **Education:**
 08/2018 – 10/2018 Software testing course in SkillUp, online course of SQL
 07/2000 - 01/2006 Ukrainian Tourism Institute (dept. of management organizations).
+
+[pet project](https://rolling-scopes-school.github.io/kate-baik-JSFEPRESCHOOL2022Q4/)
